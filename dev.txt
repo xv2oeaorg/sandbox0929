@@ -1,2 +1,3 @@
 this is a test file from branch "develop".
 and is adding message.
+and is XXX.
