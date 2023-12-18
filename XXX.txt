@@ -13,3 +13,4 @@ API IPA
 timer timer timer
 white white
 black and white
+a i u e o
