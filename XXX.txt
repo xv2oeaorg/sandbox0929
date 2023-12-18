@@ -1,18 +1,2 @@
 X test.
-
-
-
-
-additional message: hello this is a message from feature branch!
-
-日本語の文章を書く。
-
-テストfrom me.
-ふせん
-API IPA
-timer timer timer
-white white
-black and white
-a i u e o
-;lkj
-asdf
+d
