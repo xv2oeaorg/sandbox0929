@@ -8,3 +8,4 @@ additional message: hello this is a message from feature branch!
 日本語の文章を書く。
 
 テストfrom me.
+ふせん
